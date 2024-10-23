@@ -1,0 +1,22 @@
+ 2  yum install httpd -y
+    3  which htppd
+    4  yum install httpd -y
+    5  clear
+    6  yum install git -y
+    7  clear
+    8  git clone https://github.com/Msocial123/Citi-Bank-WebSite.git
+    9  ls
+   10  cd Citi-Bank-WebSite
+   11  ls
+   12  cd /var/www/html
+   13  cd /home/ec2-user/Citi-Bank-Website
+   14  cd /home/ec2-user
+   15  ls
+   16  cd Citi-Bank-WebSite
+   17  ls
+   18  cp -r . /var/www/html
+   19  cd /var/www/html
+   20  ls
+   21  service httpd status
+   22  service httpd start
+   https://github.com/Msocial123/Clahan-Ecommerce-WebSite.git  - Task
